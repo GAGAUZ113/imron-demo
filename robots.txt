@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://castrol-oil.com/sitemap.xml
